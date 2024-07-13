@@ -1,0 +1,246 @@
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.Cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200220_Tesseract_POC_Fix_Coordinates - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.Cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200226_Tesseract_POC\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.Cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.Cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+C:\Users\jdelacruz\Desktop\Tesseract_OCR_Jeff\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.Cache
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojResolveAssemblyReference.cache
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+C:\Users\sadino\Desktop\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.Cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojAssemblyReference.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CoreCompileInputs.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CopyComplete
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4) - Copy - Copy\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojAssemblyReference.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CoreCompileInputs.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CopyComplete
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 4)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojAssemblyReference.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CoreCompileInputs.cache
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CopyComplete
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\Programming projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.DangAmbigs
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.freq-dawg
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.inttemp
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.normproto
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.pffmtable
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.unicharset
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.user-words
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Content\tessdata\eng.word-dawg
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe.config
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\tessnet2_32.dll
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\bin\Debug\Interop.WIA.dll
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csprojAssemblyReference.cache
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\Interop.WIA.dll
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.ResolveComReference.cache
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmDocTemplate.resources
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmGetTxtname.resources
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmOCR.resources
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.frmScanner.resources
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_TesseractByJeff.Properties.Resources.resources
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.GenerateResource.cache
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CoreCompileInputs.cache
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\OCRPOC_Tesseract.csproj.CopyComplete
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.exe
+D:\projects\C#\Tesseract_3\20200309_Tesseract_POC(Checkpoint 5)\20200220_OCR_POC_UsingTessnet_ByJeff\obj\Debug\20200220_OCR_POC_UsingTessnet_ByJeff.pdb

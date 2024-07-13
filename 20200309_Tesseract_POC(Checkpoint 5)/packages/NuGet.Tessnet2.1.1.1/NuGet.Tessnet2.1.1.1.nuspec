@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NuGet.Tessnet2</id>
+    <version>1.1.1</version>
+    <title>NuGet.Tessnet2</title>
+    <authors>Moritz Pflaum</authors>
+    <owners>Moritz Pflaum</owners>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Installs tessnet2, including the tesseract OCR library &amp; the English language files into a project.
+      It depends on the MSBuild.NugetContentRestore package, so that you can ignore the installed files in your VCS; they will be restored like assembly references.
+      This package includes the following works of other authors (all under apache 2.0 license):
+       - Tessnet2 
+       - tesseract
+       - tesseract tessdata english language files</description>
+    <summary />
+    <copyright>Copyright 2015 Spreitzenbarth Consultants GmbH</copyright>
+    <language>en-US</language>
+    <tags>tesseract tessnet tessnet2 .net OCR text recognition</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="MSBuild.NugetContentRestore" version="0.1.6" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Drawing" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
